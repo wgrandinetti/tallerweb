@@ -1,0 +1,37 @@
+p {
+    color:blue;
+    background-color: cadetblue;
+    font-size:xx-large ;
+}
+
+h2 {
+    font-style: italic;
+    font-weight: 800;
+    border: 3px solid rgb(139, 250, 135);
+}
+
+.clase2 {
+    color: green;
+}
+
+.clase1 {
+    color: red;
+}
+
+.nota {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: yellow
+}
+
+.celeste {
+    background-color: lightblue;
+    margin: 10px;
+    padding: 10px;
+    text-align: center;
+}
+
+.blanco {
+    background-color: white;
+    margin: 10px;
+    padding: 10px;
+}
